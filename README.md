@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haz-ro, my real name is Ali.
 - 👀 I’m interested in learning web development and creating awesome stuff.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently working on Blockchain.
 - 💞️ I’m looking to collaborate on anything that helps me and other people.
 - 📫 write me: aaaliii4u@gmail.com
 
